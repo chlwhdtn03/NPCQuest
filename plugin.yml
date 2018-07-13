@@ -1,0 +1,9 @@
+name: NPCQuest
+version: 1.0
+main: NPCQuest.NPCQuest
+author: chlwhdtn
+
+commands:
+  퀘스터:
+  퀘스터생성:
+  NPCQuest:
