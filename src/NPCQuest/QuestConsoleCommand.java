@@ -17,6 +17,9 @@ public class QuestConsoleCommand implements CommandExecutor {
 		}
 		// /NPCQuest <닉네임> <퀘스트ID>
 		
+		String player = args[0];
+		int id = Integer.parseInt(args[1]);
+		
 		return false;
 	}
 
